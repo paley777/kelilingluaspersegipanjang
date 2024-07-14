@@ -1,28 +1,15 @@
 # Konversi Suhu
 
-Konversi Suhu adalah software desktop berbahasa BASIC. Software ini ditujukan untuk menjalankan fitur hitung luas dan keliling bangun datar persegi panjang.
+Temperature Conversion is BASIC language desktop software. This software is intended to perform features for calculating the area and perimeter of rectangular flat shapes.
+
+## Integration
+This system uses VB.NET
 
 
+## User Features
 
-## Integrasi
-Sistem ini menggunakan VB.NET
+- Simple Calculation
 
-
-## Fitur Pengguna
-
-- Perhitungan sederhana
-
-
-
-
-## Fitur Sistem
-
-- BASIC
-
-
-## Optimalisasi
-
--
 
 ## Run Locally
 
@@ -38,7 +25,3 @@ Clone the project
 
 ![App Screenshot](https://i.ibb.co/G2zZ05V/image.png)
 
-
-## Saran
-
-Untuk saran dan masukan sistem ini harap berkenan email ke valleryan1212@gmail.com
